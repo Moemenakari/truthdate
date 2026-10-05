@@ -1,0 +1,7 @@
+// Optional settings.
+window.ADATE_CONFIG = {
+  build: '2026-10-02-2',   // bump together with version.json on every release
+  githubUrl: 'https://github.com/moemenakari/truthdate',
+  // Text-suggestion endpoint (free, no key). Set to '' to use only the built-in local suggestions.
+  aiUrl: 'https://text.pollinations.ai/'
+};
